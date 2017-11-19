@@ -1,0 +1,37 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+			"name": "blog",
+			"folder_exclude_patterns":
+			[
+				".deploy_git",
+				"node_modules",
+				"public",
+				"scaffolds",
+				"themes",
+				"tags",
+				"images",
+				"categories"
+			],
+			"file_exclude_patterns":[".gitignore","*.json"]
+		}
+	],
+
+	"build_systems":
+    [
+        {
+            "name": "run",
+            "shell_cmd": "hexo server --draft"
+        },
+        {
+            "name": "deploy",
+            "shell_cmd": "hexo deploy -g"
+        },
+        {
+            "name": "rebuild",
+            "shell_cmd": "hexo clean & hexo generate"
+        }
+    ]
+}

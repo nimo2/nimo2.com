@@ -1,0 +1,649 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pac",
+				"package.path\t(kong)"
+			],
+			[
+				"get_",
+				"ngx.req.get_body_data()"
+			],
+			[
+				"X_",
+				"http_x_forwarded_for"
+			],
+			[
+				"remote",
+				"remote_addr"
+			],
+			[
+				"pro",
+				"proxy_pass"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"di",
+				"div.d"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "nimo2_com.sublime-project",
+			"settings":
+			{
+				"buffer_size": 68,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"git:stat",
+				"Git: Status"
+			],
+			[
+				"git:add",
+				"Git: Add All"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"project",
+				"Project: Edit"
+			],
+			[
+				"sidebar",
+				"Side Bar: Enable Syncing"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"perl",
+				"Set Syntax: Perl"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings"
+			],
+			[
+				"format",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"all err",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"ali",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"metai",
+				"Material Theme: Activate theme"
+			],
+			[
+				"show ",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lin",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"passvi",
+				"SublimeLinter: Make Warnings Passive"
+			],
+			[
+				"nex",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"Lua",
+				"Set Syntax: Lua Dev"
+			],
+			[
+				"nginx",
+				"Set Syntax: nginx"
+			],
+			[
+				"sylu",
+				"Set Syntax: Lua"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"terminal",
+				"Terminal: Open"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"markdown",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"md",
+				"Set Syntax: Markdown"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"convert",
+				"MarkdownEditing: Convert Underlined Headers to ATX"
+			],
+			[
+				"bwo",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Terminal",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"pre",
+				"HTMLPrettify"
+			],
+			[
+				"prety",
+				"HTMLPrettify"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"fo",
+				"Format: Javascript"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"user",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			]
+		],
+		"width": 592.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"luajit",
+			"shit",
+			"ls",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/zhangjun/nimo2.com"
+	],
+	"file_history":
+	[
+		"/Users/zhangjun/nimo2.com/themes/hexo-theme-Anatole/layout/partial/nav.jade",
+		"/Users/zhangjun/nimo2.com/themes/hexo-theme-Anatole/source/css/style.css",
+		"/Users/zhangjun/nimo2.com/themes/hexo-theme-Anatole/source/css/style.scss",
+		"/Users/zhangjun/nimo2.com/_config.yml",
+		"/Users/zhangjun/nimo2.com/themes/hexo-theme-Anatole/_config.yml",
+		"/Users/zhangjun/nimo2.com/nimo2_com.sublime-project",
+		"/Users/zhangjun/nimo2.com/themes/hexo-theme-Anatole/languages/pt-BR.yml",
+		"/Users/zhangjun/nimo2.com/source/_posts/hello-world.md",
+		"/Users/zhangjun/sublime_work/kong-test/nginx.conf",
+		"/private/etc/ssh/ssh_config",
+		"/usr/local/bin/rest",
+		"/Users/zhangjun/sublime_work/temp..no-sublime-package",
+		"/usr/local/homebrew/Cellar/kong/0.11.1/lib/luarocks/rocks/lua-resty-http/0.08-0/rock_manifest",
+		"/usr/local/homebrew/Cellar/kong/0.11.1/lib/luarocks/rocks/lua-resty-http/0.08-0/lua-resty-http-0.08-0.rockspec",
+		"/Users/zhangjun/sublime_work/kong-test/kong.sublime-project",
+		"/usr/local/share/lua/5.1/kong/cmd/start.lua",
+		"/usr/local/share/lua/5.1/luarocks/tools/patch.lua",
+		"/Users/zhangjun/sublime_work/kong-test/nginx-kong.conf",
+		"/usr/local/homebrew/Cellar/kong/0.11.1/lib/luarocks/rocks/kong/0.11.1-0/kong-0.11.1-0.rockspec",
+		"/usr/local/homebrew/Cellar/kong/0.11.1/lib/luarocks/rocks/luasocket/3.0rc1-2/test/tcp-getoptions",
+		"/Users/zhangjun/sublime_work/test/perltest1",
+		"/usr/local/homebrew/Cellar/kong/0.11.1/bin/kong",
+		"/Users/zhangjun/sublime_work/test/perltest",
+		"/usr/local/bin/resty",
+		"/Users/zhangjun/sublime_work/test/luatest",
+		"/Users/zhangjun/sublime_work/kong-test/kong.conf",
+		"/usr/local/share/lua/5.1/kong/init.lua",
+		"/usr/local/share/lua/5.1/kong/conf_loader.lua",
+		"/usr/local/homebrew/Cellar/openresty/1.11.2.4/luajit/include/luajit-2.1/luaconf.h",
+		"/usr/local/include/luajit-2.1/luaconf.h",
+		"/usr/local/homebrew/Cellar/openresty/1.11.2.5/perl",
+		"/Users/zhangjun/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/zhangjun/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/usr/local/homebrew/Cellar/kong/0.11.1/share/lua/5.1/kong/cluster_events.lua",
+		"/usr/local/homebrew/Cellar/kong/0.11.1/share/lua/5.1/kong/conf_loader.lua",
+		"/usr/local/homebrew/Cellar/kong/0.11.1/share/lua/5.1/kong/vencor/tset.js",
+		"/usr/local/homebrew/Cellar/kong/0.11.1/share/lua/5.1/kong/test.lua",
+		"/usr/local/homebrew/Cellar/kong/0.11.1/share/lua/5.1/kong/mlcache.lua",
+		"/usr/local/homebrew/Cellar/kong/0.11.1/share/lua/5.1/kong/constants.lua",
+		"/Users/zhangjun/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/zhangjun/Library/Application Support/Sublime Text 3/Packages/Terminal/Base File.sublime-settings",
+		"/Users/zhangjun/Library/Application Support/Sublime Text 3/Packages/LuaJumpDefinition/Default (OSX).sublime-keymap",
+		"/Users/zhangjun/Library/Application Support/Sublime Text 3/Packages/Lua Dev/Lua Dev.sublime-settings",
+		"/Users/zhangjun/Documents/工作/模拟订单/AA数据更新/统计单均.sql",
+		"/Users/zhangjun/Desktop/欠款订单统计.sql",
+		"/Users/zhangjun/Desktop/新欠款订单统计",
+		"/usr/local/nginx/conf/nginx.conf",
+		"/etc/profile",
+		"/Users/zhangjun/.bash_profile",
+		"/Users/zhangjun/Documents/工作/绩效考核/人员评价/2017年度",
+		"/Users/zhangjun/Documents/工作/产品/TODO/调度业务接手/dispatch.md",
+		"/Users/zhangjun/Documents/工作/产品/TODO/抹零调查_web端.xlsx",
+		"/Users/zhangjun/Documents/工作/产品/untitled",
+		"/Users/zhangjun/Documents/工作/产品/TODO/调度业务接手/interact.md",
+		"/Users/zhangjun/Desktop/main.lua",
+		"/Users/zhangjun/Desktop/hello.lua",
+		"/Users/zhangjun/Documents/工作/产品/GrowthCloud/壹合互动",
+		"/Users/zhangjun/Documents/工作/产品/TODO/【20170814162】接机航班信息优化需求V1.0/会议纪要.txt",
+		"/Users/zhangjun/Documents/工作/产品/TODO/【20170614161】预约成功页面优化需求V1.0/会议纪要.txt",
+		"/Users/zhangjun/Documents/工作/产品/TODO/【20170815163】实时计费及修改下车地点重新预估优化V1.1/会议纪要.txt",
+		"/Users/zhangjun/Documents/工作/产品/TODO/PRD20170825130 微信公众号卖虚拟充值卡-v1.2/会议纪要.txt",
+		"/Users/zhangjun/Documents/工作/产品/TODO/PRD20170811130 酒店专车-v1.0/会议纪要.txt",
+		"/Users/zhangjun/Documents/工作/产品/TODO/调度业务接手/入门流程.md",
+		"/Users/zhangjun/Documents/工作/产品/TODO/调度业务接手/调度",
+		"/Users/zhangjun/Documents/工作/产品/TODO/统一门户平台/会议纪要.txt",
+		"/Users/zhangjun/Documents/工作/产品/TODO/调度业务接手/clbs",
+		"/Users/zhangjun/Documents/工作/产品/TODO/实验平台/README.md",
+		"/Users/zhangjun/Documents/工作/产品/TODO/【PRD20170822179】出行-信用卡合并（后台）20170911/会议纪要.txt",
+		"/Users/zhangjun/Desktop/test.sh",
+		"/Users/zhangjun/Documents/工作/产品/TODO/PRD20170815572派单队列里至少有1个自营司机v1/PRD20170815572派单队列里至少有1个自营司机v1.0（20170815）.docx",
+		"/Users/zhangjun/Documents/工作/产品/TODO/PRD20170825576派单时间间隔配置在时间维度细分v1/PRD20170825576派单时间间隔配置在时间维度细分v1.0（20170825）.docx",
+		"/Users/zhangjun/Documents/工作/产品/出行文档/出行上线check",
+		"/Users/zhangjun/Documents/工作/产品/TODO/调度业务接手/Interact",
+		"/Users/zhangjun/Documents/工作/产品/TODO/调度业务接手/tcarlbs",
+		"/Users/zhangjun/Documents/工作/产品/TODO/调度业务接手/dispatch",
+		"/Users/zhangjun/Documents/工作/产品/TODO/调度业务接手/tcardispatch",
+		"/Users/zhangjun/Documents/工作/产品/TODO/实验平台/初稿",
+		"/Users/zhangjun/Documents/工作/产品/TODO/实验平台/点子",
+		"/Users/zhangjun/Documents/工作/产品/TODO/调度业务接手/commons",
+		"/Users/zhangjun/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/zhangjun/Documents/工作/产品/壹合互动",
+		"/Users/zhangjun/Documents/工作/产品/租车接入专车APP-张钧.txt",
+		"/Users/zhangjun/Documents/工作/产品/TODO/PRD20170825576派单时间间隔配置在时间维度细分v1/会议纪要.txt",
+		"/Users/zhangjun/Downloads/test.sh",
+		"/Users/zhangjun/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/zhangjun/Documents/工作/产品/舒享车型【订单系统，营销系统，报价系统，基础设置】",
+		"/Users/zhangjun/Downloads/统计单均.sql",
+		"/Users/zhangjun/IdeaProjects/git/little/src/main/webapp/WEB-INF/view/fi/home.jsp",
+		"/Users/zhangjun/IdeaProjects/git/pdf-kit-master/src/test/resources/templates/hello.ftl",
+		"/Users/zhangjun/IdeaProjects/git/pdf-kit-master/.gitignore",
+		"/Users/zhangjun/IdeaProjects/git/fi/.gitigonre",
+		"/Users/zhangjun/IdeaProjects/git/pdf-kit-master/src/test/resources/templates/pufa.ftl",
+		"/Users/zhangjun/IdeaProjects/git/fi/READMME.md",
+		"/Users/zhangjun/IdeaProjects/git/pdf-kit-master/th.html",
+		"/Users/zhangjun/Desktop/test.html",
+		"/Users/zhangjun/Downloads/pom.xml",
+		"/Users/zhangjun/Desktop/租车接入专车APP-张钧.txt",
+		"/Users/zhangjun/Desktop/recharge表纠正步骤",
+		"/Users/zhangjun/Desktop/租车专车合并-庆魁.txt",
+		"/usr/local/tomcat/conf/context",
+		"/Users/zhangjun/hexo/source/_drafts/java并发那些事儿.md",
+		"/Users/zhangjun/webpack/demo/webpack.config.js",
+		"/Users/zhangjun/webpack/demo/node_modules/webpack/lib/HashedModuleIdsPlugin.js",
+		"/Users/zhangjun/webpack/demo/package.json",
+		"/Users/zhangjun/webpack/demo/build/main.963af959d49e61ad816d.js",
+		"/Users/zhangjun/webpack/demo/build/vendor.709b303b212f149654b5.js",
+		"/Users/zhangjun/webpack/demo/build/main.a370f45bf093d055afeb.js",
+		"/Users/zhangjun/webpack/demo/build/vendor.d41d8cd98f00b204e980.js",
+		"/Users/zhangjun/webpack/demo/build/chunk-manifest.json",
+		"/Users/zhangjun/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/zhangjun/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/zhangjun/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/zhangjun/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/zhangjun/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"60%",
+			"40%",
+			"content"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "nimo2_com.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 68,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"markdonw_live_preview_last_run": 1511003144.11,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 204.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "new draft",
+	"project": "nimo2_com.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"config",
+				"themes/hexo-theme-Anatole/_config.yml"
+			],
+			[
+				"style.css",
+				"themes/hexo-theme-Anatole/source/css/style.scss"
+			],
+			[
+				"nav.jade",
+				"themes/hexo-theme-Anatole/layout/partial/nav.jade"
+			],
+			[
+				"conf_loader",
+				"libary/kong/conf_loader.lua"
+			],
+			[
+				"",
+				"libary/kong/cmd/check.lua"
+			],
+			[
+				"kong/init",
+				"libary/kong/cmd/init.lua"
+			],
+			[
+				"kong/cmd/check",
+				"libary/kong/cmd/check.lua"
+			],
+			[
+				"cmd/start",
+				"libary/kong/cmd/start.lua"
+			],
+			[
+				"nginx",
+				"kong-test/nginx.conf"
+			],
+			[
+				"kong/cmd/init",
+				"libary/kong/cmd/init.lua"
+			],
+			[
+				"getoptions",
+				"libary/luarocks/rocks/luasocket/3.0rc1-2/test/tcp-getoptions"
+			],
+			[
+				"conf",
+				"conf_loader.lua"
+			],
+			[
+				"调度",
+				"调度业务接手/dispatch.md"
+			],
+			[
+				"颐和",
+				"颐和互动"
+			],
+			[
+				"web",
+				"~/webpack/demo/webpack.config.js"
+			],
+			[
+				"main",
+				"~/webpack/demo/build/manifest.d41d8cd98f00b204e980.js"
+			],
+			[
+				"chun",
+				"~/webpack/demo/build/chunk-manifest.json"
+			],
+			[
+				"confi",
+				"~/webpack/demo/webpack.config.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/sublime_work/kong.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Kong.s",
+				"Kong.ssl_certificate"
+			],
+			[
+				"start",
+				"startswith"
+			]
+		],
+		"width": 448.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
